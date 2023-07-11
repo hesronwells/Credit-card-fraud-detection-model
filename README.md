@@ -16,4 +16,12 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
-![]()
+![](Folder/data_files/1.png)
+![](Folder/data_files/2.png)
+![](Folder/data_files/3.png)
+![](Folder/data_files/4.png)
+![](Folder/data_files/5.png)
+![](Folder/data_files/6.png)
+![](Folder/data_files/7.png)
+![](Folder/data_files/8.png)
+![](Folder/data_files/9.png)
